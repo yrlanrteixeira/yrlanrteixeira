@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Yrlan ✋
 - 🧑🏽‍🎓 Aspirante a desenvolvedor de sistemas
+- 🔭 Quality Assurance - Tester
 - 🎓 Estudante de Engenharia de Computação
 
 <div style="text-align: center;">
@@ -8,7 +9,7 @@
 
 </div>
 
-<div style="text-align: center;">
+<div style="text-align: center">
   <a href="https://github.com/yrlanrteixeira/projeto-lab-aedsII-figuras">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yrlanrteixeira&repo=projeto-lab-aedsII-figuras" />
   </a>

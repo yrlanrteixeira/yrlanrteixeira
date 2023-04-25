@@ -15,8 +15,8 @@
   <a href="https://github.com/yrlanrteixeira/formacao-oop-ScreenMach">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yrlanrteixeira&repo=formacao-oop-ScreenMach"/>
   </a>
-  <a href="https://github.com/yrlanrteixeira/formacao-oop-ScreenMach">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yrlanrteixeira&repo=formacao-oop-ScreenMach"/>
+  <a href="https://github.com/yrlanrteixeira/projeto-lab-aedsII-TimeDuendes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yrlanrteixeira&repo=projeto-lab-aedsII-TimeDuendes"/>
   </a>
 </div>
 

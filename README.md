@@ -4,23 +4,21 @@
 - 🎓 Estudante de Engenharia de Computação
 
 <div style="text-align: center;">
-
-![Yrlan Github Stats](https://github-readme-stats.vercel.app/api?username=yrlanrteixeira&show_icons=false&theme=gruvbox)
+  
+![Yrlan Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yrlanrteixeira&show_icons=true&theme=gruvbox)
 
 </div>
-
-<div style="text-align: center">
+<div style="text-align: center;">
   <a href="https://github.com/yrlanrteixeira/projeto-lab-aedsII-figuras">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yrlanrteixeira&repo=projeto-lab-aedsII-figuras" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yrlanrteixeira&repo=projeto-lab-aedsII-figuras" style="display: block; margin-bottom: 10px;">
   </a>
   <a href="https://github.com/yrlanrteixeira/formacao-oop-ScreenMach">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yrlanrteixeira&repo=formacao-oop-ScreenMach"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yrlanrteixeira&repo=formacao-oop-ScreenMach" style="display: block; margin-bottom: 10px;">
   </a>
   <a href="https://github.com/yrlanrteixeira/projeto-lab-aedsII-TimeDuendes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yrlanrteixeira&repo=projeto-lab-aedsII-TimeDuendes"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yrlanrteixeira&repo=projeto-lab-aedsII-TimeDuendes" style="display: block;">
   </a>
 </div>
-
 
 
 ## ⚙ Tecnologias utilizadas no meu dia a dia

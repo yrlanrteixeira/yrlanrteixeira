@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Yrlan ✋
-- 🧑🏽‍🎓 Aspirante a desenvolvedor de sistemas
-- 🔭 Quality Assurance - Tester
+- 🧑🏽‍🎓 Desenvolvedor de Software
 - 🎓 Estudante de Engenharia de Computação
 
 <div style="text-align: center;">
